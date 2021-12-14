@@ -1,17 +1,10 @@
 ## Full Stack engineering student at ENSIAS Rabat
 
-- 👋 Hi, I’m @Nabilbentamer
+- 👋 Hi, I’m Nabilbentamer
 - 👀 I’m interested in Java & Javascript
 - 🌱 I’m currently learning Spring Boot and digging deeper in React-native
 - 📫 reach me in: nabil.bentamer7@gmail.com
 
-
-### Connect with me:
-
-[<img align="left" alt="khalidanas.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 
 ### Languages and Tools:
